@@ -1,0 +1,78 @@
+Last login: Thu Mar 14 23:17:48 on ttys001
+Mac-cha:~ charlottepecate$ ls
+Applications
+Desktop
+Documents
+Downloads
+Dropbox
+Dropbox (Ancien)
+Enregistrement
+Library
+MacKeeper Backups
+Movies
+Music
+Pictures
+Public
+Sites
+Télécharger le mot de passe.URL
+anaconda3
+red
+Mac-cha:~ charlottepecate$ cd
+Mac-cha:~ charlottepecate$ cd desktop
+Mac-cha:desktop charlottepecate$ cd ..
+Mac-cha:~ charlottepecate$ pwd
+/Users/charlottepecate
+Mac-cha:~ charlottepecate$ cd desktop
+Mac-cha:desktop charlottepecate$ ls
+AZIZ - Note d'intention.pdf
+AZIZ.pdf
+CVartdhia.pdf
+Capture d’écran 2018-01-26 à 11.27.22.png
+Capture d’écran 2018-01-26 à 11.27.23.png
+Capture d’écran 2019-03-06 à 22.12.16.png
+Capture d’écran 2019-03-10 à 22.44.26.png
+Capture d’écran 2019-03-10 à 23.45.00.png
+Capture d’écran 2019-03-10 à 23.45.09.png
+Capture d’écran 2019-03-13 à 11.44.49.png
+Capture d’écran 2019-03-13 à 12.31.08.png
+Capture d’écran 2019-03-13 à 13.50.42.png
+Capture d’écran 2019-03-13 à 14.39.24.png
+Capture d’écran 2019-03-13 à 14.47.44.png
+Capture d’écran 2019-03-13 à 14.54.52.png
+Capture d’écran 2019-03-13 à 16.33.15.png
+Capture d’écran 2019-03-13 à 21.02.29.png
+Capture d’écran 2019-03-14 à 09.43.30.png
+Capture d’écran 2019-03-14 à 12.18.50.png
+Capture d’écran 2019-03-14 à 14.23.09.png
+Capture d’écran 2019-03-14 à 17.44.54.png
+DC2 - Module 20 - Monographie Stage - ORAL.key
+L'empire des papillons Prév
+La traversée V2.pdf
+MONO.rtf
+Quête pré-rentrée.rtf
+auburtin travaux.pdf
+cha
+compte_rendu.pdf
+courscha
+cv
+dhia
+dhia et charlotte
+documents Dhia RAJEB
+dossier appart
+dossier doc
+edp.rtf
+film et serie
+jesus
+monographie oral ecrit .rtf
+monographie.key
+monographie1.rtf
+papiers
+photosc
+projet santé
+projet stage .rtf
+remi_0765-0752_2000_num_16_2_1736_t1_0191_0000_1.pdf
+sql
+stage casvp13
+stage mouzaia
+test
+Mac-cha:desktop charlottepecate$ 
